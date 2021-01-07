@@ -1,0 +1,25 @@
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.exe.config
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.exe
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.pdb
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.xml
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.vbprojAssemblyReference.cache
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.FrmConvert.resources
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.Resources.resources
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.vbproj.GenerateResource.cache
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.vbproj.CoreCompileInputs.cache
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.exe
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.xml
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.pdb
+C:\Users\Yuzo kitazume\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.vbproj.ResolveComReference.cache
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.vbproj.ResolveComReference.cache
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.FrmConvert.resources
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.Resources.resources
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.vbproj.GenerateResource.Cache
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.vbproj.CoreCompileInputs.cache
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.exe
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.xml
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\obj\Debug\CsvExlConverter.pdb
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.exe.config
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.exe
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.pdb
+C:\Users\Yuzo\source\repos\CsvExlConverter\CsvExlConverter\bin\Debug\CsvExlConverter.xml
